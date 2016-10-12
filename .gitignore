@@ -13,7 +13,6 @@
 /tags
 *.mo
 *.log
-*.htaccess
 *.orig
 
 # IDE and editor specific files #

@@ -48,7 +48,7 @@ $description = 'App Starter';
             <h1>Get the Ovens Ready</h1>
         </div>
     </header>
-    <div id="content">        
+    <div id="content">
         <?php
         if (Configure::read('debug')):
             Debugger::checkSecurityKeys();

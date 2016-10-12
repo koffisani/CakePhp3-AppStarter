@@ -218,8 +218,8 @@ return [
             * the following line and set the port accordingly
             */
             //'port' => 'nonstandard_port_number',
-            'username' => 'ignis',
-            'password' => 'ignis2015',
+            'username' => 'root',
+            'password' => '',
             'database' => 'app_starter',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
